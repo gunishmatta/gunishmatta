@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**gunishmatta/gunishmatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I am a Frontend Developer skilled in HTML,CSS,Javascript,React,Redux,Storybook and GraphQL. 👋
 
 
 - 🔭 I’m currently working on ...        &nbsp; Frontend Development including React and GraphQL

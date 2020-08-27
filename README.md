@@ -10,3 +10,4 @@
 - 😄 Pronouns: ...                        &nbsp;He/His
 
 
+![Gunish's github stats](https://github-readme-stats.vercel.app/api?username=gunishmatta&count_private=true&show_icons=true)

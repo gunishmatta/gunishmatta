@@ -1,4 +1,4 @@
-### Hi there, I am a Frontend Developer skilled in HTML,CSS,Javascript,React,Redux,Storybook and Node 👋
+### Hi there, I am a Software Engineer skilled in C++,HTML,CSS,Javascript,React,Redux,Storybook, Express.js and Node.js 👋
 
 
 - 🔭 I’m currently working on ...        &nbsp; Frontend Development including React and GraphQL

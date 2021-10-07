@@ -8,4 +8,6 @@
 - 📫 How to reach me: ...                 &nbsp;gunishmatta@gmail.com, [Linkedin](https://www.linkedin.com/in/gunishmatta2/)
 - 😄 Pronouns: ...                        &nbsp;He/His
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgunishmatta&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Gunish's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunishmatta&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunishmatta)

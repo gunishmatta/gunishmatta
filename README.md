@@ -1,2 +1,2 @@
-### Hi there, I am a Software Engineer, currently working on Android at Rivigo Labs👋
+### Hi there, I am a Software Engineer, currently working at Rivigo Labs👋
 

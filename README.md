@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/gunishmatta2" target="blank"><img src="https://img.shields.io/twitter/follow/gunishmatta2?logo=twitter&style=for-the-badge" alt="gunishmatta2" /></a> </p>
 
-- 🔭 I’m currently working on [Compass (Rivigo's Internal Finance Product)](compass.rivigo.com)
+- 🔭 I’m currently working at Rivigo.
 
 - 🌱 I’m currently learning about **Spring Boot, Microservices, Distributed Systems**
 

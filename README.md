@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Java, Node.js, Spring Boot, Kafka **
-
 - 📫 How to reach me **gunishmatta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

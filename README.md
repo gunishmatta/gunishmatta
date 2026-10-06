@@ -1,8 +1,7 @@
 <h1 align="center">Hello World! I'm Gunish 👋</h1>
-<h3 align="center">Backend | Agents | Distributed Systems</h3>
+<h3 align="center">Software Engineer | AI Agents | Distributed Systems</h3>
 <p align="center">
-Backend engineer. Agents, evals, and the infrastructure underneath them.<br>
-Software Engineer II at UiPath (Supply Chain and Retail AI, formerly Peak.ai). Based in Jaipur.
+I'm a backend engineer in Jaipur, India with 4+ years of experience building scalable systems and LLM-powered applications. Currently a Software Engineer II at UiPath, in the Supply Chain and Retail AI org (formerly Peak.ai).
 </p>
 
 ### 🚀 What I'm Up To
@@ -12,6 +11,7 @@ Software Engineer II at UiPath (Supply Chain and Retail AI, formerly Peak.ai). B
 - 💡 Exploring local LLMs and agentic AI development in my spare time
 
 ### 🛠️ Tech Stack
+
 **Backend & AI**
 - Python | FastAPI | Django | Go | Spring Boot
 - LangGraph | Multi-agent orchestration | RAG | MCP
@@ -28,9 +28,8 @@ Software Engineer II at UiPath (Supply Chain and Retail AI, formerly Peak.ai). B
 - React.js | JavaScript
 
 ### 🧭 Background
-- 4+ years in backend engineering
-- Previously at Locad (search indexing, AWS OpenSearch tuning) and Rivigo
-- MCA from Thapar Institute of Engineering and Technology
+- Previously at Locad (Logistics Tech Startup) and Rivigo  (Logistics Tech Startup)
+- Masters in Computer Science from Thapar Institute of Engineering and Technology, India
 - Interested in system design, distributed systems, and microservices patterns
 
 ### 📫 Let's Connect!

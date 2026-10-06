@@ -1,32 +1,32 @@
 <h1 align="center">Hello World! I'm Gunish 👋</h1>
-<h3 align="center">Software Engineer | Distributed Systems | Backend Development</h3>
+<h3 align="center">Software Engineer | AI Agents | Distributed Systems</h3>
 <p align="center">
-I'm a software engineer from India passionate about building scalable distributed systems and AI-driven applications. Currently helping scale tech infrastructure at Locad, a Series A startup headquartered in Singapore.
+I'm a backend engineer based out of India with 4+ years of experience building scalable systems and LLM-powered applications. Currently a Software Engineer II at UiPath, in the Supply Chain and Retail AI org.
 </p>
 
 ### 🚀 What I'm Up To
-- 🔭 Building the Locad Developer Platform V2 with OpenAPI 3.0-compliant APIs
-- 🌱 Deep diving into **Python**, **Django**, and **AI/ML Systems**
-- 👯 Contributing to open source projects like **Eventing Kafka Broker** and **OpenFeature Go SDK**
-- 💡 Exploring RAG systems and LLM applications
+- 🔭 Building multi-agent systems with LangGraph and FastAPI
+- 🌱 Working on RAG pipelines, MCP integrations, and evals/observability for agents
+- 👯 Open source contributor to Knative and OpenFeature
+- 💡 Exploring local LLMs and agentic AI development in my spare time
 
 ### 🛠️ Tech Stack
-**Backend & Services**
-- Python | Django | Go | Spring Boot
-- Microservices | RESTful APIs
-- Apache Kafka | RabbitMQ | Redis
+**Backend & AI**
+- Python | FastAPI | LangGraph
+- Multi-agent orchestration | RAG | MCP
+- Evals and observability
 
-**Databases & Search**
-- PostgreSQL | MongoDB | MySQL
-- Qdrant | TimescaleDB
+**Data & Search**
+- AWS OpenSearch | PostgreSQL | Redis | Apache Kafka
 
 **Cloud & DevOps**
-- AWS | Google Cloud | Docker | Kubernetes
+- AWS (EKS) | Kubernetes | Docker
 - GitOps | CI/CD
 
-**AI/ML & Frontend**
-- GPT-4 | Haystack | RAG Systems
-- React.js | JavaScript
+### 🧭 Background
+- Previously at Locad (Logistics Tech Startup - 1-10 phase) and Rivigo (Logistics Tech Startup - 10-100 phase).
+- Masters in Computer Science from Thapar Institute of Engineering and Technology, India
+- Interested in system design, distributed systems, and microservices patterns
 
 ### 📫 Let's Connect!
 - Blog: [gunishmatta.hashnode.dev](https://gunishmatta.hashnode.dev)

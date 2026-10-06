@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Gunish 👋</h1>
 <h3 align="center">Software Engineer | AI Agents | Distributed Systems</h3>
 <p align="center">
-I'm a backend engineer in Jaipur, India with 4+ years of experience building scalable systems and LLM-powered applications. Currently a Software Engineer II at UiPath, in the Supply Chain and Retail AI org (formerly Peak.ai).
+I'm a backend engineer based out of India with 4+ years of experience building scalable systems and LLM-powered applications. Currently a Software Engineer II at UiPath, in the Supply Chain and Retail AI org.
 </p>
 
 ### 🚀 What I'm Up To
